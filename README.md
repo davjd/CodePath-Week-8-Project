@@ -27,18 +27,18 @@ GIF Walkthrough: ![alt text](https://github.com/davjd/CodePath-Week-8-Project/bl
 ## Green
 
 Vulnerability #1: Cross-Site Scripting
-https://github.com/davjd/CodePath-Week-8-Project/blob/master/xssGreen.gif
+GIF Walkthrough: ![alt text](https://github.com/davjd/CodePath-Week-8-Project/blob/master/xssGreen.gif)
 
 Vulnerability #2: Username Enumeration
-https://github.com/davjd/CodePath-Week-8-Project/blob/master/enum.gif
+GIF Walkthrough: ![alt text](https://github.com/davjd/CodePath-Week-8-Project/blob/master/enum.gif)
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
-https://github.com/davjd/CodePath-Week-8-Project/blob/master/red1.gif
+GIF Walkthrough: ![alt text](https://github.com/davjd/CodePath-Week-8-Project/blob/master/red1.gif)
 
 Vulnerability #2: Cross-Site Request Forgery
-https://github.com/davjd/CodePath-Week-8-Project/blob/master/red2.gif
+GIF Walkthrough: ![alt text](https://github.com/davjd/CodePath-Week-8-Project/blob/master/red2.gif)
 
 
 ## Notes
