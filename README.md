@@ -18,22 +18,27 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
+GIF Walkthrough: ![alt text](https://github.com/davjd/CodePath-Week-8-Project/blob/master/sqlWorking.gif)
 
 Vulnerability #2: Session Hijacking/Fixation
+GIF Walkthrough: ![alt text](https://github.com/davjd/CodePath-Week-8-Project/blob/master/blue2.gif)
 
 
 ## Green
 
 Vulnerability #1: Cross-Site Scripting
+https://github.com/davjd/CodePath-Week-8-Project/blob/master/xssGreen.gif
 
 Vulnerability #2: Username Enumeration
-
+https://github.com/davjd/CodePath-Week-8-Project/blob/master/enum.gif
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
+https://github.com/davjd/CodePath-Week-8-Project/blob/master/red1.gif
 
 Vulnerability #2: Cross-Site Request Forgery
+https://github.com/davjd/CodePath-Week-8-Project/blob/master/red2.gif
 
 
 ## Notes
